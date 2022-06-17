@@ -142,6 +142,15 @@ h2 {
 header {
     margin-top: 30px;
 }
+.grid-button {
+    background-color: #FF5722;
+    color: hsla(0, 0%, 100%, 0.75);
+    border-radius: 50rem;
+    border: 0;
+    padding: 16px 32px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
 a {
     color: hsla(0, 0%, 100%, 0.75);
     text-decoration: none;
